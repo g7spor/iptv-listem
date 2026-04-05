@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="TRT",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="TRT",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="TRT",TRT Spor
+https://tv-trtspor.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="Ulusal",ATV
+https://trkvz-live.ercdn.net/atv/atv.m3u8
+
+#EXTINF:-1 group-title="Ulusal",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+
+#EXTINF:-1 group-title="Ulusal",Show TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+
+#EXTINF:-1 group-title="Ulusal",TV8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+#EXTINF:-1 group-title="Haber",CNN Türk
+https://demiroren-live.daioncdn.net/cnnturk/cnnturk.m3u8
+
+#EXTINF:-1 group-title="Haber",A Haber
+https://trkvz-live.ercdn.net/ahaber/ahaber.m3u8
+
+#EXTINF:-1 group-title="Haber",Habertürk
+https://ciner-live.daioncdn.net/haberturk/haberturk.m3u8
